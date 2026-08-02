@@ -23,7 +23,7 @@
 -  Data Aggregation: Grouped transactions by regions, sales channels, time periods, and item categories to calculate totals and statistical frequencies.
 - Data Visualization: Built visual frameworks using Matplotlib and Seaborn, including line charts, bar plots, distribution histograms, violin plots, and   correlation heatmaps.
 ## Amazon Sales analysis end to end project link
-- <a href="https://github.com/padmapriyagogu05-coder/Amazon-Sales-Data-Analysis/blob/main/Sales_Data.csv">Amazon project</a>
+- <a href="https://github.com/padmapriyagogu05-coder/Amazon-Sales-Data-Analysis/blob/main/Sales_Data.csv">Amazon project link</a>
 
 ## Project Insights
 
