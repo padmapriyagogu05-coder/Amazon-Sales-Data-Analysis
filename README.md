@@ -2,6 +2,8 @@
 
 ## 🎯 Project Objective
 - The main goal of this project is to perform Exploratory Data Analysis (EDA) on an Amazon Sales dataset. By identifying sales trends, regional performance, and key operational metrics, this project aims to uncover hidden patterns that can help improve business decisions, optimize inventory management, and maximize overall profitability.
+## Dataset Used
+- <a href="https://github.com/padmapriyagogu05-coder/Amazon-Sales-Data-Analysis/blob/main/Sales_Data.csv">Amazon Dataset</a>
 ## Key Metrics Tracked (KPIs):
 - Total Revenue: Total sales generated across all orders.
 - Total Profit: Overall net margin earned by the company.
